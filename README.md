@@ -7,7 +7,6 @@
   - [Video Processor](https://github.com/lakshmimaddipati/video-processing)
 - <b>JavaScript</b>
   - [Receipt Processor (Express.js) ](https://github.com/lakshmimaddipati/receipt-processor)
-  - [JavaScript Interview Refresher ](https://github.com/lakshmimaddipati/JavaScript-interview)
 - <b>Python</b>
   - [Custom Redis Server](https://github.com/lakshmimaddipati/pyredis)
   - [Image Transcoder (AWS Lambda)](https://github.com/lakshmimaddipati/image-processing-lambda)
