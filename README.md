@@ -17,7 +17,7 @@
 - <b>Kafka</b>
   - [Wikimedia Kafka OpenSearch streaming data analysis](https://github.com/lakshmimaddipati/kafka-wikimedia)
   - [Kafka Basics, Producer Consumer](https://github.com/lakshmimaddipati/kafka-learner)  
-- <b>data build tool</b>
+- <b>Data build tool (dbt)</b>
   - [dbt airbnb](https://github.com/lakshmimaddipati/dbt-project)
 - <b>DBMS</b>
   - [vector databses ](https://github.com/lakshmimaddipati/vector-databases)
