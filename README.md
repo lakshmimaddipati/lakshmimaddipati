@@ -1,10 +1,12 @@
+<h1>Hi 👋, I'm Lakshmi! </h1>
+I am a software engineer with 2+ years of work experience in building B2B SaaS products.
 
-<h1>Hi, I'm Lakshmi! <br/><a href="https://github.com/LakshmiMaddipati">Software Developer</a>
-
-<h2>👨‍💻 Software Development Projects:</h2>
+<h3>👨‍💻 Development Projects:</h3>
 
 - <b>Full Stack Web App (Next.js, TypeScript, Firebase, GCP, and Netlify)</b>
   - [Video Processor](https://github.com/lakshmimaddipati/video-processing)
+- <b>React Web App </b>
+  - [Quiz application](https://github.com/lakshmimaddipati/react-quiz)
 - <b>JavaScript</b>
   - [Receipt Processor (Express.js) ](https://github.com/lakshmimaddipati/receipt-processor)
 - <b>Python</b>
