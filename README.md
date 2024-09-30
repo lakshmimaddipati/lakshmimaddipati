@@ -19,8 +19,6 @@ I am a software engineer with 2+ years of work experience in building B2B SaaS p
 - <b>Kafka</b>
   - [Wikimedia Kafka OpenSearch streaming data analysis](https://github.com/lakshmimaddipati/kafka-wikimedia)
   - [Kafka Basics, Producer Consumer](https://github.com/lakshmimaddipati/kafka-learner)  
-- <b>Data build tool (dbt)</b>
-  - [dbt airbnb](https://github.com/lakshmimaddipati/dbt-project)
 - <b>DBMS</b>
   - [vector databases ](https://github.com/lakshmimaddipati/vector-databases)
 - <b>Opensource</b>
