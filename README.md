@@ -22,7 +22,7 @@ I am a software engineer with 2+ years of work experience in building B2B SaaS p
 - <b>Data build tool (dbt)</b>
   - [dbt airbnb](https://github.com/lakshmimaddipati/dbt-project)
 - <b>DBMS</b>
-  - [vector databses ](https://github.com/lakshmimaddipati/vector-databases)
+  - [vector databases ](https://github.com/lakshmimaddipati/vector-databases)
 - <b>Opensource</b>
   - [date-fns ](https://github.com/lakshmimaddipati/date-fns)
   
