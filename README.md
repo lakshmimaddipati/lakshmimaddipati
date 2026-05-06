@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Lakshmi! </h1>
-I am a software engineer with 2+ years of work experience in building B2B SaaS products.
+Software Engineer with 2+ years of experience developing backend systems, distributed architectures, and cloud-native applications.
 
 <h3>👨‍💻 Development Projects:</h3>
 
